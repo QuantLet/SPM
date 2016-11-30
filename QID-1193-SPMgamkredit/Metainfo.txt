@@ -1,0 +1,17 @@
+NAme of QuantLet: SPMgamkredit
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes a semiparametric logit model with additive component functions for Age and Amount using mgcv.
+
+Keywords: nonparametric, regression, plot, graphical representation, data visualization, financial, logit, semiparametric, semiparametric model
+
+See also: SPMadditive, SPMadditivebostonh, SPMadditivecorrelated
+
+Author: Marlene Müller
+
+Submitted: Mon, August 01 2011 by Awdesch Melzer
+
+Datafiles: kredit.csv
+
+Example: Plot of the regression and data points.

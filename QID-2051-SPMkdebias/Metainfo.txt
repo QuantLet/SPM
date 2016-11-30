@@ -1,0 +1,13 @@
+Name of QuantLet: SPMkdebias
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Visualizes bias effects for a kernel density estimate.
+
+Keywords: plot, graphical representation, bias, kernel, density, kde
+
+See also: SPMkdemse, SPMkdebias_sim, SPMkde2D, SPMkdeconstruct, SPMkdeconstruct-Sliders
+
+Author: Awdesch Melzer
+
+Submitted: Thu, November 29 2012 by Dedy Dwi Prastyo

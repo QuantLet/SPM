@@ -1,0 +1,19 @@
+Name of QuantLet: SPMhistogram
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes a histogram for stock returns data with binwidth h = 0.02 and origin x0 = 0.
+
+Keywords: plot, graphical representation, data visualization, histogram, financial, returns, asset, binwidth
+
+See also: SPMhisdiffbin, SPMhisdiffori, SPMhistmse, SPMhiststock, SPMstockreturnhisto, SPMHistoConstruct, SPMhistobias2, SPMbuffahisto
+
+Author: Marlene Mueller
+
+Submitted: Mon, March 15 2010 by Lasse Groth
+
+Datafiles: stockres.txt
+
+Input: 
+- x0 : origin
+- h : binwidth

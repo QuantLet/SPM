@@ -1,0 +1,15 @@
+Name of QuantLet: SPMdenepatri
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes a kernel estimation of epanechnikov and triangle kernel for net-income data from the U.K. Family Expenditure Survey.
+
+Keywords: kernel, kde, estimation, financial, plot, graphical representation, data visualization
+
+See also: MVAkernelfunctions
+
+Author: Awdesch Melzer
+
+Submitted: Thu, November 01 2012 by Dedy Dwi Prastyo
+
+Datafiles: nicfoo.dat

@@ -1,0 +1,13 @@
+Name of QuantLet: SPMHistoConstruct
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates a construction of histogram.
+
+Keywords: plot, graphical representation, histogram, density
+
+See also: SPMhisdiffbin, SPMhisdiffori, SPMhistmse, SPMhiststock, SPMstockreturnhisto, SPMhistogram, SPMhistobias2, SPMbuffahisto
+
+Author: Awdesch Melzer
+
+Submitted: Mon, October 29 2012 by Dedy Dwi Prastyo

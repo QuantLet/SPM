@@ -1,0 +1,13 @@
+Name of QuantLet: SPMsimulmase
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Visualizes bias^2, variance and mean averaged squared error (MASE) for the regression of simulated data.
+
+Keywords: plot, graphical representation, bias, variance, regression, simulation, mase
+
+See also: SPMkdemse
+
+Author: Awdesch Melzer
+
+Submitted: Wed, March 20 2013 by Franziska Schulz

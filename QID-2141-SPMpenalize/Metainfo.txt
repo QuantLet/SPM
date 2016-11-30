@@ -1,0 +1,11 @@
+Name of QuantLet: SPMpenalize
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Displays different penalizing function: S, AIC, FPE, GCV, T.'
+
+Keywords: AIC, plot, graphical representation
+
+Author: Awdesch Melzer
+
+Submitted: Wed, March 20 2013 by Franziska Schulz

@@ -1,0 +1,15 @@
+Name of QuantLet: SPM2density2D
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Estimates a bivariate kernel density for age and income of migration data from Mecklenburg-Vorpommern, GSOEP 1991. The density estimate is plotted in the 3D space.
+
+Keywords: 3D, bivariate, density, estimation, kernel, plot, graphical representation, data visualization
+
+See also: SPMcontour2D, SPMlogit, SPMmigmvdesc
+
+Author: Awdesch Melzer
+
+Submitted: Fri, June 14 2013 by Awdesch Melzer
+
+Datafiles: migmv.dat

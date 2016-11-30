@@ -1,0 +1,16 @@
+Name of QuantLet: SPMlogit
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Estimates a logit model for migration data from Mecklenburg-Vorpommern, GSOEP 1991.
+
+Keywords: estimation, logit, plot, graphical representation, data visualization
+
+See also: SPMmigmvdesc, SPM2density2D, SPMcontour2D
+
+Author: Awdesch Melzer
+
+Submitted: Wed, March 20 2013 by Franziska Schulz
+
+Datafiles: migmv.dat
+

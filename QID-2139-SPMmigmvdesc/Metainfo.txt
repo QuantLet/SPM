@@ -1,0 +1,15 @@
+Name of QuantLet: SPMmigmvdesc
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the descriptive statistics of migration data from Mecklenburg-Vorpommern, GSOEP 1991.
+
+Keywords: descriptive, descriptive-statistics, mean, median
+
+See also: SPM2density2D, SPMcontour2D, SPMlogit
+
+Author: Awdesch Melzer
+
+Submitted: Wed, March 20 2013 by Franziska Schulz
+
+Datafiles: migmv.dat

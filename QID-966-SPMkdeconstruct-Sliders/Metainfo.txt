@@ -1,0 +1,13 @@
+Name of QuantLet: SPMkdeconstruct-Sliders
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Visualizes the construction of a kernel density estimate (with additional slider to choose bandwidth and sample size).
+
+Keywords: plot, graphical representation, kernel, density, kde, nonparametric, regression
+
+See also: SPMkdemse, SPMkdebias, SPMkdebias_sim, SPMkde2D, SPMkdeconstruct
+
+Author: Marlene Mueller
+
+Submitted: Wed, November 16 2011 by Dedy Dwi Prastyo

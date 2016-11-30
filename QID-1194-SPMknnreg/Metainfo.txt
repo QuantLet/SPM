@@ -1,0 +1,15 @@
+Name of QuantLet: SPMknnreg
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the regression of food on net-income for the UK 1976 expenditure data using a k-nearest neighbor classification.
+
+Keywords: kernel, nonparametric, regression, plot, graphical representation, data visualization
+
+See also: SPMwavereg, SPMmesmooreg
+
+Author: Marlene Mueller
+
+Submitted: Wed, December 19 2012 by Dedy Dwi Prastyo
+
+Datafiles: fes76.csv

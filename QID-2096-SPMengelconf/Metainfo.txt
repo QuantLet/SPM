@@ -1,0 +1,15 @@
+Name of QuantLet: SPMengelconf
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes a kernel regression and confidence intervals for the regression of food expenditures on net-income for the UK 1973 expenditure data.
+
+Keywords: kernel, nonparametric, regression, confidence-interval, plot, graphical representation, data visualization
+
+See also: SPMengelcurve, SPMengelcurve1, SPMengelconfsample, SPMspline, SPMsplineregression
+
+Author: Awdesch Melzer, Stephanie Freese
+
+Submitted: Wed, December 19 2012 by Dedy Dwi Prastyo
+
+Datafiles: agg73sh.dat

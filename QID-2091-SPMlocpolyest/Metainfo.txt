@@ -1,0 +1,15 @@
+Name of QuantLet: SPMlocpolyest
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the local polynomial estimator for the UK 1973 expenditure data employing a gaussian kernel.
+
+Keywords: kernel, gaussian, local polynomial, estimation, financial, plot, graphical representation, data visualization
+
+See also: SPMnadwaest, SPMderivest, SPMlocpolyderivative, SPMlocpolyregression
+
+Author: Awdesch Melzer
+
+Submitted: Wed, December 12 2012 by Dedy Dwi Prastyo
+
+Datafiles: agg73sh.dat

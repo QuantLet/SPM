@@ -1,0 +1,15 @@
+Name of QuantLet: SPMkernelregression
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the regression of food on net-income for the UK 1976 expenditure data.
+
+Keywords: kernel, local polynomial, nonparametric, regression, plot, graphical representation, data visualization
+
+See also: SPMregress, SPMorthogon, SPMkernel, SPMsplinekernel, SPMkernelcontours
+
+Author: Marlene Mueller
+
+Submitted: Mon, May 10 2010 by Maria Osipenko
+
+Datafiles: fes76.txt

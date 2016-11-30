@@ -1,0 +1,15 @@
+Name of QuantLet: SPMnadwaest
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the Nadaraya-Watson estimator for the UK 1973 expenditure data.
+
+Keywords: Nadaraya Watson, estimation, financial, plot, graphical representation, data visualization
+
+See also: SPMlocpolyest, SPMderivest
+
+Author: Awdesch Melzer
+
+Submitted: Wed, December 12 2012 by Dedy Dwi Prastyo
+
+Datafiles: agg73sh.dat

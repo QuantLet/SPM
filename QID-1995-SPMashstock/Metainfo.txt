@@ -1,0 +1,15 @@
+Name of QuantLet: SPMashstock
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates an averaged shifted histogram for stock returns.
+
+Keywords: plot, graphical representation, data visualization, histogram, financial, returns, asset
+
+See also: SPMstockreturnhisto, SPMhistogram, SPMhiststock, SPMbuffahisto, SPMHistoConstruct, SPMhistobias2
+
+Author: Awdesch Melzer
+
+Submitted: Mon, October 29 2012 by Dedy Dwi Prastyo
+
+Datafiles: stockres.dat

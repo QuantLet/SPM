@@ -1,0 +1,13 @@
+Name of QuantLet: SPMhistobias2
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates bias of a histogram.
+
+Keywords: plot, graphical representation, histogram, bias
+
+See also: SPMhiststock, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct, SPMstockreturnhisto
+
+Author: Awdesch Melzer
+
+Submitted: Mon, October 29 2012 by Dedy Dwi Prastyo

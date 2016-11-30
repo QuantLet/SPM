@@ -1,0 +1,11 @@
+Name of QuantLet: SPMparametriclinkfunctions
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Illustrates parametric link functions: logit, probit and heteroskedastic.'
+
+Keywords: logit, heteroskedasticity, parametric, plot, graphical representation
+
+Author: Awdesch Melzer
+
+Submitted: Wed, March 20 2013 by Franziska Schulz

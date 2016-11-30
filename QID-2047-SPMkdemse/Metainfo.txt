@@ -1,0 +1,13 @@
+Name of QuantLet: SPMkdemse
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Visualizes bias^2, variance and mean squared error (MSE) for a kernel density estimate.
+
+Keywords: plot, graphical representation, bias, variance, mse, kernel, density, kde
+
+See also: SPMkdebias, SPMkdebias_sim, SPMkde2D, SPMkdeconstruct, SPMkdeconstruct-Sliders
+
+Author: Awdesch Melzer
+
+Submitted: Mon, November 12 2012 by Dedy Dwi Prastyo

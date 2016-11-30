@@ -1,0 +1,15 @@
+Name of QuantLet: SPMkdeconstruct
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Visualizes the construction of a kernel density estimate for a Gaussian kernel.
+
+Keywords: plot, graphical representation, kernel, density, kde, gaussian
+
+See also: SPMkdemse, SPMkdebias, SPMkdebias_sim, SPMkde2D, SPMkdeconstruct-Sliders
+
+Author: Marlene Mueller
+
+Submitted: Tue, March 16 2010 by Lasse Groth
+
+Example: Graphical representation of the summation over the rescaled kernels.

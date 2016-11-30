@@ -1,0 +1,16 @@
+Name of QuantLet: SPMlocpolyderivative
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the derivative of the food on net-income regression for the UK 1976 expenditure data using local polynomials.
+
+Keywords: derivative, kernel, local polynomial, nonparametric, regression, financial, plot, graphical representation, data visualization
+
+See also: SPMlocpolyregression, SPMlocpolyest
+
+Author: Marlene Mueller
+
+Submitted: Wed, January 16 2013 by Awdesch Melzer
+
+Datafiles: fes76.txt
+

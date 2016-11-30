@@ -1,0 +1,11 @@
+Name of QuantLet: SPMsimulatedexponential
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates a histogram of an exponential distribution.
+
+Keywords: histogram, exponential, distribution, simulation, plot, graphical representation
+
+Author: Awdesch Melzer
+
+Submitted: Thu, October 25 2012 by Dedy Dwi Prastyo

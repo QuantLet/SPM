@@ -1,0 +1,17 @@
+Name of QuantLet: SPMadditivebostonh
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes an additive fit for the Boston housing prices.
+
+Keywords: nonparametric, regression, plot, graphical representation, data visualization, financial 
+
+See also: SPMadditive, SPMadditivecorrelated, SPMgamkredit
+
+Author: Marlene Müller
+
+Submitted: Mon, August 01 2011 by Awdesch Melzer
+
+Datafiles: bostonh.txt
+
+Example: Plot of the regression and data points.

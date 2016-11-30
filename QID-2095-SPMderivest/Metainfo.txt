@@ -1,0 +1,15 @@
+Name of QuantLet: SPMderivest
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes a derivative estimator for UK 1973 expenditure data.
+
+Keywords: estimation, derivative, financial, plot, graphical representation, data visualization
+
+See also: SPMlocpolyest, SPMnadwaest
+
+Author: Awdesch Melzer
+
+Submitted: Wed, December 19 2012 by Dedy Dwi Prastyo
+
+Datafiles: agg73sh.dat

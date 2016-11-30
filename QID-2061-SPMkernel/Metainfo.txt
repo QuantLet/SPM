@@ -1,0 +1,13 @@
+Name of QuantLet: SPMkernel
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: 'Plots different kernel functions: uniform, triangle, epanechnikov, quartic, gaussian.'
+
+Keywords: kernel, uniform, Epanechnikov, quartic, gaussian, plot, graphical representation, data visualization
+
+See also: SPMkernelregression, SPMsplinekernel, SPMkernelcontours
+
+Author: Andrija Mihoci, Awdesch Melzer, Dedy D. Prastyo
+
+Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo

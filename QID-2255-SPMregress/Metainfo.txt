@@ -1,0 +1,15 @@
+Name of QuantLet: SPMregress
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the regression of food expenditures on netincome with four different bandwidths for the UK 1973 expenditure data.
+
+Keywords: bandwidth, kernel, regression, plot, graphical representation, data visualization
+
+See also: SPMkernelregression, SPMorthogon
+
+Author: Awdesch Melzer, Franziska Schulz
+
+Submitted: Tue, November 12 2013 by Franziska Schulz
+
+Datafiles: agg73sh.dat

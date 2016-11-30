@@ -1,0 +1,15 @@
+Name of QuantLet: SPMbuffadata
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates Buffalo snowfall data.
+
+Keywords: plot, graphical representation, data visualization
+
+See also: SPMbuffahisto, SPMbuffagrid
+
+Author: Awdesch Melzer
+
+Submitted: Wed, October 24 2012 by Dedy Dwi Prastyo
+
+Datafiles: buffa.dat

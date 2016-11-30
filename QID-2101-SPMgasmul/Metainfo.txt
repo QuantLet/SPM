@@ -1,0 +1,13 @@
+Name of QuantLet: SPMgasmul
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Shows the Gasser-Mueller estimator and its first derivative for simulated data set.
+
+Keywords: derivative, nonparametric, estimation, simulation, plot, graphical representation
+
+See also: SPMderivest, SPMlocpolyderivative
+
+Author: Awdesch Melzer
+
+Submitted: Wed, January 16 2013 by Maria Osipenko

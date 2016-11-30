@@ -1,0 +1,15 @@
+Name of QuantLet: SPMlocpolyregression
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes different regressions of food on net-income or the UK 1976 expenditure data with Nadaraya Watson and with local linear regression.
+
+Keywords: Nadaraya Watson, kernel, local polynomial, nonparametric, regression, plot, graphical representation, data visualization
+
+See also: SPMlocpolyest, SPMlocpolyderivative
+
+Author: Marlene Mueller
+
+Submitted: Mon, May 10 2010 by Maria Osipenko
+
+Datafiles: fes76.txt

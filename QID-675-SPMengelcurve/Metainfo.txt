@@ -1,0 +1,15 @@
+Name of QuantLet: SPMengelcurve
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the regression of food share on net-income for the UK 1976 expenditure data.
+
+Keywords: kernel, local polynomial, nonparametric, regression, plot, graphical representation, data visualization
+
+See also: SPMengelcurve1, SPMengelconf, SPMengelconfsample, SPMspline, SPMsplineregression
+
+Author: Marlene Müller
+
+Submitted: Mon, May 10 2010 by Maria Osipenko
+
+Datafiles: fes76.txt

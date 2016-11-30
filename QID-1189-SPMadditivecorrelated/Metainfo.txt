@@ -1,0 +1,15 @@
+Name of QuantLet: SPMAdditivecorrelated
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes an additive fit with normal and correlated regressors.
+
+Keywords: nonparametric, regression, plot, graphical representation, normal
+
+See also: SPMadditive, SPMadditivebostonh, SPMgamkredit
+
+Author: Marlene Müller
+
+Submitted: Mon, August 01 2011 by Awdesch Melzer
+
+Example: Plot of the regression and data points.

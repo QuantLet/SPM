@@ -1,0 +1,13 @@
+Name of QuantLet: SPMwavereg
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the wavelet regression using Daubechies basis for a simulated data set.
+
+Keywords: regression, simulation, basis, plot, graphical representation
+
+See also: SPMmesmooreg, SPMknnreg
+
+Author: Awdesch Melzer
+
+Submitted: Wed, March 20 2013 by Franziska Schulz

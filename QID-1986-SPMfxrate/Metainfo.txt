@@ -1,0 +1,13 @@
+Name of QuantLet: SPMfxrate
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Creates plots of EUR/USD rates and returns from 2002-01-01 to 2009-01-01.
+
+Keywords: financial, returns, time-series, plot, graphical representation, data visualization 
+
+Author: Maria Osipenko, Awdesch Melzer
+
+Submitted: Tue, October 23 2012 by Dedy Dwi Prastyo
+
+Datafiles: exrate_GBR-USD_EUR-USD_20020101-20090101.txt

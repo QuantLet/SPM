@@ -1,0 +1,15 @@
+Name of QuantLet: SPMspline
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the regression of food on net-income for the UK 1976 expenditure data.
+
+Keywords: nonparametric, regression, spline, estimation, plot, graphical representation, data visualization
+
+See also: SPMsplineregression, SPMengelcurve, SPMengelcurve1, SPMengelconf, SPMengelconfsample, SPMsplinekernel
+
+Author: Marlene Mueller
+
+Submitted: Wed, December 19 2012 by Dedy Dwi Prastyo
+
+Datafiles: fes76.csv

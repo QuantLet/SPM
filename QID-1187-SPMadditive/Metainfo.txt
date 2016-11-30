@@ -1,0 +1,16 @@
+Name of QuantLet: SPMadditive
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes an additive fit.
+
+Keywords: nonparametric, regression, plot, graphical representation
+
+See also: SPMadditivebostonh, SPMadditivecorrelated, SPMgamkredit
+
+Author: Marlene Müller
+
+Submitted: Mon, August 01 2011 by Awdesch Melzer
+
+Example: Plot of the regression and data points.
+

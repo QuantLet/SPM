@@ -1,0 +1,15 @@
+Name of QuantLet: SPMbuffagrid
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates Buffalo snowfall data with bin grid.
+
+Keywords: plot, graphical representation, data visualization
+
+See also: SPMbuffahisto, SPMbuffadata
+
+Author: Awdesch Melzer
+
+Submitted: Wed, October 24 2012 by Dedy Dwi Prastyo
+
+Datafiles: buffa.dat

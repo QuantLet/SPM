@@ -1,0 +1,14 @@
+Name of QuantLet: SPMkernelcontours
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Illustrates the difference between a bivariate product and a bivariate radial-symmetric Epanechnikov kernel with equal bandwidths.
+
+Keywords: Epanechnikov, contour, bivariate, multivariate, kernel, plot, graphical representation, data visualization
+
+See also: SPMkernel, SPMsplinekernel, SPMkernelregression
+
+Author: Marlene Mueller
+
+Submitted: Mon, May 10 2010 by Maria Osipenko
+

@@ -1,0 +1,15 @@
+Name of QuantLet: SPMorthogon
+
+Published in: Nonparametric and Semiparametric Models
+
+Description: Computes the an orthogonal series regression food expenditures on net-income for the UK 1973 expenditure data.
+
+Keywords: nonparametric, orthogonal series, regression, plot, graphical representation, data visualization
+
+See also: SPMregress, SPMkernelregression
+
+Author: Awdesch Melzer
+
+Submitted: Wed, January 16 2013 by Maria Osipenko
+
+Datafiles: agg73sh.dat
