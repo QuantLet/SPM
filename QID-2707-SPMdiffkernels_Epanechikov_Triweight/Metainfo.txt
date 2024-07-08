@@ -1,0 +1,13 @@
+Name of QuantLet : 'QID-2707-SPMdiffkernels_Epanechikov_Triweight'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates two Different continuous kernels, net-income data from the U.K. Family Expenditure Survey.'
+
+Keywords : 'plot, graphical representation, data visualization, histogram, financial, returns, asset'
+
+Author : 'Ștefan Găman'
+
+Submitted : '08 Jul 2024'
+
+Datafiles : 'agg73sh.dat'
