@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMkernelcontours_all'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates the difference between a bivariate product and a bivariate radial-symmetric Epanechnikov kernel with equal bandwidths.'
+
+Keywords : 'Epanechnikov, contour, bivariate, multivariate, kernel, plot, graphical representation, data visualization'
+
+Author : 'Ștefan Găman'
+
+Submitted : '08 Jul 2024'
