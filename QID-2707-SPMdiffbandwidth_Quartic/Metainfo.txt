@@ -1,0 +1,13 @@
+Name of QuantLet : 'QID-2707-SPMdiffbandwidth_Quartic'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates four histograms for the stock returns data with different bandwidths and Quartic kernel.'
+
+Keywords : 'plot, graphical representation, data visualization, histogram, financial, returns, asset'
+
+Author : 'Ștefan Găman'
+
+Submitted : '08 Jul 2024'
+
+Datafiles : 'stockres.dat'
