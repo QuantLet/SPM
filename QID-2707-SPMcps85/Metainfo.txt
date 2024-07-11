@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMcps85'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates the parametric and nonparametric kernel density estimations of avergared hourly earnings along with confidence bands and intervals.'
+
+Keywords : 'kernel density, parametric, nonparametric, kernel, confidence bands, confidence intervals'
+
+Author : 'Ștefan Găman'
+
+Submitted : '11 Jul 2024'
