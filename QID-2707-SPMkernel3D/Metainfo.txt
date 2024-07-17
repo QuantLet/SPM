@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMkernel3D'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates the three-dimensional density estimation.'
+
+Keywords : 'kernel density, parametric, nonparametric, kernel, 3D'
+
+Author : 'Ruting Wang'
+
+Submitted : '17 Jul 2024'
