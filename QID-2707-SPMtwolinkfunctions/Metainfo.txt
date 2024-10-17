@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMtwolinkfunctions'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates two link functions.'
+
+Keywords : 'single, index, model, link, functions'
+
+Author : 'Ruting Wang'
+
+Submitted : '17 Oct 2024'
