@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMintegralestimator'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates the itnegral estiamtor.'
+
+Keywords : 'integral,estimator'
+
+Author : 'Ștefan Găman'
+
+Submitted : '25 Oct 2024'
