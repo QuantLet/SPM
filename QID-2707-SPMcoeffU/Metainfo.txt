@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMcoeffU'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Illustrates the coefficient of the varaible U.'
+
+Keywords : 'coefficient, variable, U'
+
+Author : 'Ștefan Găman'
+
+Submitted : '25 Oct 2024'
