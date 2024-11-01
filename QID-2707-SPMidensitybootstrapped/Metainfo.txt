@@ -1,0 +1,11 @@
+Name of QuantLet : 'QID-2707-SPMidensitybootstrapped'
+
+Published in : 'Nonparametric and Semiparametric Models'
+
+Description : 'Density estimates of bootstrapped (thick) and limiting normal distribution (thin), bootstrap replications.'
+
+Keywords : 'density, bootstrapped, normal, distribution'
+
+Author : 'Ștefan Găman'
+
+Submitted : '01 Nov 2024'
