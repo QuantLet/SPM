@@ -1,2 +1,0 @@
-# SPM
-Quantnet: SPM quantlets
