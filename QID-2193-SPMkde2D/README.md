@@ -20,7 +20,7 @@ Author: Anna Wieber
 Submitted: Fri, June 14 2013 by Awdesch Melzer
 
 Code warning: 
-- 'In persp.default(x1, x2, z1, main = "True pdf of X", col = "lightgreen", :
+- In persp.default(x1, x2, z1, main = "True pdf of X", col = "lightgreen", : surface extends beyond the box
 
 ```
 <div align="center">
