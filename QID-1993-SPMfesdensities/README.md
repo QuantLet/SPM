@@ -20,9 +20,9 @@ Submitted: Wed, October 24 2012 by Dedy Dwi Prastyo
 Datafiles: agg69sh.dat, agg70sh.dat, agg71sh.dat, agg72sh.dat, agg74sh.dat, agg75sh.dat, agg76sh.dat, agg77sh.dat, agg78sh.dat, agg79sh.dat, agg80sh.dat, agg81sh.dat, agg82sh.dat, agg83sh.dat
 
 Code warning: 
-- '15 warning messages:
+- 15 warning messages:
 
-In log(fhj[, 1]): NaNs produced
+In log(fhj[, 1]): NaNs produced'
 
 ```
 <div align="center">
