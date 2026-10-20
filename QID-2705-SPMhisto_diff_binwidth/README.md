@@ -13,7 +13,7 @@ Description: Illustrates four histograms for the stock returns data with differe
 
 Keywords: plot, graphical representation, data visualization, histogram, financial, returns, asset
 
-See also: SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,
+See also: SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct, SPMhistobias2
 
 Author: Ștefan Găman
 
